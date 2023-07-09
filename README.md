@@ -66,14 +66,14 @@ iii) cat
          Note: Any other option other than above one's will print error
 
 INTERNAL COMMAND:
-   i) echo : it simply prints everything we write in a line 
+
+   i) echo : it simply prints everything we write in a line
    ii) pwd : it prints the current running directory
    iii) cd :   it changes the directory
 
  HOW TO EXIT ?
-   Just enter “end”    
-    
-          
+ Just enter “end”    
+      
 Few test case:
 
 ls
