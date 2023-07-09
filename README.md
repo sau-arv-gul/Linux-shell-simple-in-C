@@ -3,7 +3,9 @@ Build simple Linux shell in C using fork and execl() system call
               OPERATING SYSTEM
               
 Name: Saurbh Kumar
+
 EXTERNAL COMMANDS:
+
 i) ls
           ◼ ls:   this command displays the files and directories in tabular
                     form.
